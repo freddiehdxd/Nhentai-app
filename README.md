@@ -1,8 +1,8 @@
-# NClientV2
+# Nhentai
 
 [![Github](https://img.shields.io/github/v/release/Dar9586/NClientV2.svg?logo=github)](https://github.com/Dar9586/NClientV2/releases/latest) [![F-Droid](https://img.shields.io/f-droid/v/com.dar.nclientv2)](https://f-droid.org/en/packages/com.dar.nclientv2/) ![Bitrise](https://img.shields.io/bitrise/0a79e29cfda80c5f?token=BrSKdUUfKb97MHigL9nA1w)
 
-An unofficial NHentai Android Client.
+An official NHentai Android Client.
 This app  works for devices from API 14 (Android 4.0) and above.
 Releases: <https://github.com/Dar9586/NClientV2/releases>
 
@@ -30,11 +30,7 @@ Main page|Lateral menu
 Search|Random manga
 ![Search](https://media.discordapp.net/attachments/608725424092086280/720369411030253578/Screenshot_20200610-230229_NClientV2.jpg?width=360&height=658)|![Random manga](https://raw.githubusercontent.com/Dar9586/NClientV2/master/fastlane/metadata/android/en-US/images/phoneScreenshots/img4.jpg)
 
-## Contributors
 
-- [ZerOri](https://github.com/ZerOri) and [linsui](https://github.com/linsui) for Chinese translation
-- [hmaltr](https://github.com/hmaltr) for Turkish translation
-- [herrsunchess](https://github.com/herrsunchess) for German translation
 
 ## Libraries
 
@@ -46,11 +42,7 @@ Search|Random manga
 - ACRA ([License](https://github.com/ACRA/acra/blob/master/LICENSE))
 - Glide ([License](https://github.com/bumptech/glide/blob/master/LICENSE))
 
-## Donation
 
-Paypal|Liberapay|Bitcoin
-:-:|:-:|:-:
-[![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CVMR2STUSVE6U)|[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Dar9586/donate)|[113U1W3BxrAzyFWgP7HXqMfB3nF6MpHj6p](https://www.blockchain.com/btc/address/113U1W3BxrAzyFWgP7HXqMfB3nF6MpHj6p)
 
 ## License
 
