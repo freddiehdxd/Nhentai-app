@@ -4,7 +4,7 @@
 
 An official NHentai Android Client.
 This app  works for devices from API 14 (Android 4.0) and above.
-Releases: <https://github.com/Dar9586/NClientV2/releases>
+
 
 ## API Features
 
